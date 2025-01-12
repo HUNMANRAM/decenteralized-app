@@ -1,0 +1,17 @@
+.crew-list-container {
+    position: relative;
+  }
+  
+  .sticky-button {
+    /* Add your button styles here */
+  }
+  
+  .table-container {
+    /* Add your table styles here */
+  }
+  
+  .sticky {
+    position: sticky;
+    top: 0;
+  }
+  

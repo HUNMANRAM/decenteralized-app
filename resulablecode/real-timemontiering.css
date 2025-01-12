@@ -1,0 +1,24 @@
+.realtime-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .realtime-layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr; /* List on the left, graphs in the middle, crew list on the right */
+    gap: 16px;
+  }
+  
+  .list-container {
+    /* Styles for the list */
+  }
+  
+  .graphs-container {
+    /* Styles for the graphs */
+  }
+  
+  .crew-list-container {
+    /* Styles for the crew list */
+  }
+  

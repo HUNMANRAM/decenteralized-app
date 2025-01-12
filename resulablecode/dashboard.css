@@ -1,0 +1,20 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .dashboard-layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr; /* Map on the left, crew details on the right */
+    gap: 16px;
+  }
+  
+  .map-container {
+    /* Map styles */
+  }
+  
+  .crew-details {
+    /* Adjust styles for the crew list */
+  }
+  
